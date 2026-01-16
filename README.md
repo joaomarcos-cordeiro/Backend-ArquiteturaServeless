@@ -1,2 +1,2 @@
 # Backend---ArquiteturaServeless-
-arquitetura-serveless - AWS SQS - AWS LAMBDA - AWS3(bucket)
+arquitetura-serveless - AWS SQS - AWS Lambda  - AWS3(bucket)
