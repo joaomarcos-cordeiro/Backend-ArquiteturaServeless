@@ -29,7 +29,7 @@ System based on supplier (merchant) product catalogs, **such as McDonald’s sel
 
 ◦ **AWS Lambda** – Processa os eventos e regras de negócio
 
-◦ **MongoDB (NoSQL)** – Persistência de dados de produtos e categorias
+◦ **MongoDB (NoSQL)** – persiste dados de produtos e categorias
 
 ◦ **API REST** – Exposição de endpoints para criação e atualização de dados
 
