@@ -5,6 +5,15 @@
 ◦ O sistema facilita que lojistas publiquem seus **catálogos de produtos** e que esses dados sejam processados de forma **assíncrona, escalável e desacoplada**, diante da **arquitetura serverless orientada a eventos**, implementada em Java.
 
 ◦ A inserção e o processamento dos catálogos ocorre na **mensageria**, que preserva a  alta disponibilidade e tolerância a falhas.
+
+## ``` ~~~ English -> ```
+System based on supplier (merchant) product catalogs, **such as McDonald’s self-service kiosks**, where customers place orders directly through a digital interface without human interaction.
+
+Context (Business Rules)
+
+The system enables merchants to publish their ** product catalogs**, which are processed in an **asynchronous, scalable, and decoupled manner **, using an event-driven serverless architecture, implemented in Java.
+
+The insertion and processing of catalogs are handled through a **messaging layer**, ensuring high availability and fault tolerance.
  
 - arquitetura-serveless - AWS SQS - AWS Lambda  - AWS3(bucket)
 - DB -> MongoDB(NoSQL)
