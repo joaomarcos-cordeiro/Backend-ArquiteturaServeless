@@ -1,0 +1,10 @@
+C:\Users\JoaoMarcos\Desktop\Arq-serveless\src\main\java\com\jm\arquitetura_serverless\domain\category\CategoryDTO.java
+C:\Users\JoaoMarcos\Desktop\Arq-serveless\src\main\java\com\jm\arquitetura_serverless\domain\category\Category.java
+C:\Users\JoaoMarcos\Desktop\Arq-serveless\src\main\java\com\jm\arquitetura_serverless\repositories\ProductRepository.java
+C:\Users\JoaoMarcos\Desktop\Arq-serveless\src\main\java\com\jm\arquitetura_serverless\controllers\CategoryController.java
+C:\Users\JoaoMarcos\Desktop\Arq-serveless\src\main\java\com\jm\arquitetura_serverless\repositories\CategoryRepository.java
+C:\Users\JoaoMarcos\Desktop\Arq-serveless\src\main\java\com\jm\arquitetura_serverless\domain\product\Product.java
+C:\Users\JoaoMarcos\Desktop\Arq-serveless\src\main\java\com\jm\arquitetura_serverless\services_businessrule\CategoryService.java
+C:\Users\JoaoMarcos\Desktop\Arq-serveless\src\main\java\com\jm\arquitetura_serverless\ArquiteturaServerlessApplication.java
+C:\Users\JoaoMarcos\Desktop\Arq-serveless\src\main\java\com\jm\arquitetura_serverless\configAws\mongo\MongoDBConfig.java
+C:\Users\JoaoMarcos\Desktop\Arq-serveless\src\main\java\com\jm\arquitetura_serverless\domain\category\exceptions\CategoryNotFoundExeption.java

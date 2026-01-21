@@ -1,6 +1,7 @@
 package com.jm.arquitetura_serverless.domain.product;
 
-import com.jm.arquitetura_serverless.domain.category.Category;
+
+import jdk.jfr.Category;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
